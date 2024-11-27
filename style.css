@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Varela Round', sans-serif;
+    list-style: none;
+    text-decoration: none;
+  }
+  .container-main {
+  background: linear-gradient(245.59deg,#020617 35.53%, #030a29 75.52%);
+  }
+  header{
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 1000;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 33px 9%;
+    background: transparent;
+  }
+  
+  html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }
+  .logo{
+    font-size: 30px;
+    font-weight: 700;
+    color: white;
+  }
+  .navlist{
+    display: flex;
+  }
+  .navlist a{
+    color: white;
+    margin-left: 60px;
+    font-size: 15px;
+    font-weight: 600;
+    border-bottom: 2px solid transparent;
+    transition: all .55s ease;
+  }
+  .navlist a:hover{
+    border-bottom: 2px solid white;
+  }
+  
+  .search-bar {
+    display: flex;
+  }
+  
+  .search-bar input[type="text"] {
+    padding: 8px;
+    width: 200px;
+  }
+  
+  .search-bar button[type="submit"] {
+    padding: 8px 12px;
+    background-color: #4ca0af;
+    color: rgb(255, 255, 255);
+    border: none;
+    cursor: pointer;
+  }
+  
+  #menu-icon{
+    color: white;
+    font-size: 30px;
+    z-index: 10001;
+    cursor: pointer;
+    display: none;
+  }
+  
+  .filme{
+    height: 100vh;
+    width: 100%;
+    min-height: 100vh;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+    gap: 2rem;
+  }
+  section{
+    padding: 0 19%;
+  }
+
+  .filme-text h1{
+    font-family: 'Rock Salt', cursive;
+    font-size: 90px;
+    line-height: 1;
+    color: white;
+    margin: 0 0 45px;
+  }
+  .filme-text p{
+    color: white;
+    font-size: 15px;
+    line-height: 1.9;
+    margin-bottom: 40px;
+  }
+  .filme-img img{
+    width: 500px;
+    height: auto;
+  }
+  .filme-text a{
+    display: inline-block;
+    color: white;
+    background: #0c0c44;
+    border: 1px solid transparent;
+    padding: 12px 30px;
+    line-height: 1.4;
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 30px;
+    text-transform: uppercase;
+    transition: all .55s ease;
+  }
+  .filme-text a:hover{
+    background: transparent;
+    border: 1px solid white;
+    transform: translateX(8px);
+  }
+  .filme-text a.ctaa i{
+    vertical-align: middle;
+    margin-right: 5px;
+  }
+
+
+
+ 
+  
+
