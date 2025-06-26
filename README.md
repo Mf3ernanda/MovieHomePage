@@ -1,4 +1,4 @@
-![Captura de tela 2025-06-26 025318](https://github.com/user-attachments/assets/154cf079-3b99-41f0-aee5-b7289dc0e515)# 🍿 Pipoca Flix
+# 🍿 Pipoca Flix
 
 Bem-vindo ao **Pipoca Flix**, uma página inicial de um serviço fictício de streaming, desenvolvida apenas com **HTML e CSS**.
 
