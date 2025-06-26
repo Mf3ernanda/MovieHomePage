@@ -15,9 +15,6 @@ Criar uma landing page com estilo moderno, simulando a interface de um serviço 
 ## 📸 Preview
 
 ![Uploading Captura de tela 2025-06-26 025318.png…]()
-![Uploading Captura de tela 2025-06-26 025318.png…]()
-![Uploading Captura de tela 2025-06-26 025318.png…]()
-![Uploading Captura de tela 2025-06-26 025318.png…]()
 
 
 ## 🚀 Tecnologias usadas
